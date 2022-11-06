@@ -127,3 +127,7 @@ bash <(curl -Lso- https://git.io/superspeed_uxh)
 ```
 wget -qO- --no-check-certificate https://raw.githubusercontent.com/oooldking/script/master/superbench.sh | bash
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=huajianyizou/linux_shell&type=Date)](https://star-history.com/#huajianyizou/linux_shell&Date)
