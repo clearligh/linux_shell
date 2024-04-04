@@ -2,7 +2,9 @@
 <div align=center>
 <img src="https://docs.espressif.com/projects/esp-idf/zh_CN/v4.3/esp32c3/_images/linux-logo.png" width="150" height="150">
 </div>
-# <center> Linux一键脚本汇总
+
+# Linux一键脚本汇总
+
 
 ***
 
